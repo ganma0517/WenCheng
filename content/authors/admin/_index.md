@@ -1,16 +1,16 @@
 ---
 # Display name
-title: 吳健雄
+title: 林文正
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+name_pronunciation: Wen Cheng Lin
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: Wen Cheng
+last_name: Lin
 
 # Pronouns (optional)
-pronouns: she/her
+pronouns: he/him
 
 # Status emoji
 status:
@@ -20,84 +20,73 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Director of Cloud Infrastructure
+role: Postdoctoral Fellow
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: GenCoin
-    url: https://www.example.com/
+  - name: CAHSS, National Taiwan University
+    url: https://www.hss.ntu.edu.tw/zh-tw/about/23
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:your-email@example.com'
+    url: 'mailto:101252504@nccu.edu.tw'
     label: E-mail Me
   - icon: brands/x
-    url: https://x.com/BuildLore
+    url: https://x.com/
   - icon: brands/github
-    url: https://github.com/gcushen
+    url: https://github.com/ganma0517
   - icon: brands/linkedin
     url: https://www.linkedin.com/
   - icon: brands/instagram
     url: https://www.instagram.com/
 
 education:
-  - area: PhD Artificial Intelligence
-    institution: Stanford University
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+  - area: PhD Department of Political Science
+    institution: National Chengchi University
+    date_start: 2012-09-01
+    date_end: 2022-07-31
     summary: |
-      Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
+      Thesis on _Dancing with the Dictator? The Origins and Effects of Women’s Political Participation in Authoritarian Regimes_.Supervised by: Prof. Wen-Chin Wu and Prof. LIN Thung-hong.Published 3 papers in APSA, MPSA, and IPSA.Received the Best Paper Award from the College of Social Sciences, NCCU.
     button:
       text: 'Read Thesis'
-      url: 'https://example.com'
-  - area: MEng Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+      url: 'https://thesis.lib.nccu.edu.tw/cgi-bin/gs32/gsweb.cgi/ccd=sWEZh3/record?r1=3&h1=0'
+  - area: MA Department of Political Science
+    institution: National Taiwan Normal University
+    date_start: 2008-09-01
+    date_end: 2012-06-30
     summary: |
-      GPA: 3.8/4.0
+      GPA: 3.7/4.0
 
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - area: BSc Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+
+      Specialization: China Studies and Taiwan public opinion.
+  - area: BA Public Administration and Management
+    institution: Chinese Culture University
+    date_start: 2009-09-01
+    date_end: 2008-06-30
     summary: |
       GPA: 3.4/4.0
 
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+
+      Advanced coursework in Mainland China Studies. Member of Student Association.
 work:
-  - position: Director of Cloud Infrastructure
-    company_name: GenCoin
-    company_url: ''
+  - position: Postdoctoral Fellow
+    company_name: Center for the Advancement of the Humanities and Social Sciences, National Taiwan University
+    company_url: 'https://www.hss.ntu.edu.tw/zh-tw/about/23'
     company_logo: ''
-    date_start: 2021-01-01
+    date_start: 2023-08-01
     date_end: ''
     summary: |2-
-      Responsibilities include:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - position: Backend Software Engineer
-    company_name: X
-    company_url: ''
+      Engaged in research and publication in the humanities and social sciences; facilitated scholarly collaboration and career networking.
+  - position: Postdoctoral Fellow
+    company_name: Institute of Sociology, Academia Sinica
+    company_url: 'https://www.ios.sinica.edu.tw/front.php'
     company_logo: ''
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+    date_start: 2022-12-01
+    date_end: 2023-07-31
     summary: |
-      Responsibilities include:
-      - Migrated infrastructure to a new data center
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-
+      Participated in the NSTC project "Authoritarian Sharp Power from China and Its Political Consequences at the Local Level in Taiwan." Conducted research on political communication and local governance, contributed to data collection, publication, and interdisciplinary collaboration.
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
 skills:
@@ -105,71 +94,67 @@ skills:
     items:
       - name: Python
         description: ''
-        percent: 80
+        percent: 75
         icon: devicon/python
       - name: RStudio
         description: ''
-        percent: 100
+        percent: 80
         icon: devicon/rstudio
-      - name: PyTorch
+      - name: STATA
         description: ''
-        percent: 40
-        icon: devicon/pytorch
+        percent: 90
+        icon: devicon/stata
   - name: Hobbies
     color: '#eeac02'
     color_border: '#f0bf23'
     items:
-      - name: Hiking
+      - name: Research Journaling and Archival Work
         description: ''
         percent: 60
-        icon: person-simple-walk
-      - name: Cats
+        icon: p<wa-icon name="square-binary" variant="thin"></wa-icon>
+      - name: LEGO model building
         description: ''
         percent: 100
-        icon: cat
-      - name: Photography
+        icon: <wa-icon name="puzzle"></wa-icon>
+      - name: Travel and Cultural Exploration
         description: ''
         percent: 80
-        icon: camera
+        icon: <wa-icon name="camera-retro"></wa-icon>
 
 languages:
   - name: English
-    percent: 100
-  - name: Chinese
-    percent: 75
-  - name: Portuguese
-    percent: 25
+    percent: 70
+  - name: Mandarin Chinese (Traditional)
+    percent: 90
+  - name: Taiwanese
+    percent: 80
 
 # Awards.
 #   Add/remove as many awards below as you like.
 #   Only `title`, `awarder`, and `date` are required.
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
 awards:
-  - title: Neural Networks and Deep Learning
-    url: https://www.coursera.org/learn/neural-networks-deep-learning
-    date: '2023-11-25'
-    awarder: Coursera
+  - title: Best Paper Award
+    url: https://neurips.cc/
+    date: '2023-09-20'
+    awarder: College of Social Sciences, NCCU
     icon: brands/coursera
     summary: |
-      I studied the foundational concept of neural networks and deep learning. By the end, I was familiar with the significant technological trends driving the rise of deep learning; build, train, and apply fully connected deep neural networks; implement efficient (vectorized) neural networks; identify key parameters in a neural network’s architecture; and apply deep learning to your own applications.
-  - title: Blockchain Fundamentals
-    url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
-    date: '2023-07-01'
-    awarder: edX
+      Awarded for outstanding achievement in doctoral dissertation research and writing.
+  - title: Professor Chi Huang Research Scholarship
+    url: https://politics.nccu.edu.tw/
+    date: '2022-04-15'
+    awarder: Department of Political Science, NCCU
     icon: brands/edx
     summary: |
-      Learned:
-      - Synthesize your own blockchain solutions
-      - Gain an in-depth understanding of the specific mechanics of Bitcoin
-      - Understand Bitcoin’s real-life applications and learn how to attack and destroy Bitcoin, Ethereum, smart contracts and Dapps, and alternatives to Bitcoin’s Proof-of-Work consensus algorithm
-  - title: 'Object-Oriented Programming in R'
-    url: https://www.datacamp.com/courses/object-oriented-programming-with-s3-and-r6-in-r
-    certificate_url: https://www.datacamp.com
-    date: '2023-01-21'
-    awarder: datacamp
+      Awarded to outstanding doctoral candidates in the field of empirical research for excellence in academic writing.
+  - title: NSTC Doctoral Dissertation Fellowship in the Humanities and Social Sciences
+    url: https://www.nccu.edu.tw/p/406-1000-8685,r17.php?Lang=zh-tw
+    date: '2021-06-30'
+    awarder: NSTC
     icon: brands/datacamp
     summary: |
-      Object-oriented programming (OOP) lets you specify relationships between functions and the objects that they can act on, helping you manage complexity in your code. This is an intermediate level course, providing an introduction to OOP, using the S3 and R6 systems. S3 is a great day-to-day R programming tool that simplifies some of the functions that you write. R6 is especially useful for industry-specific analyses, working with web APIs, and building GUIs.
+      Awarded to doctoral candidates with strong research potential to support one year of dissertation writing and enhance academic research quality (NT$480,000).
 ---
 
-I am currently Director of Cloud Infrastructure at GenCoin where I am leading teams on edge computing, deep sea data center architecture, and hivemind optimization.
+Wen Cheng Lin is a postdoctoral research fellow at the  CAHSS, National Taiwan University. His research focuses on political and social change in Taiwan, as well as comparative politics. He collaborates closely with the Institute of Political Science and the Institute of Sociology at Academia Sinica, examining how mainland China influences public opinion in Taiwan, including the effects of military aircraft incursions, local-level united front strategies, and diplomatic isolation.
