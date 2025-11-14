@@ -94,7 +94,7 @@ skills:
     items:
       - name: Python
         description: ''
-        percent: 75
+        percent: 85
         icon: devicon/python
       - name: RStudio
         description: ''
@@ -110,24 +110,24 @@ skills:
     items:
       - name: Research Journaling and Archival Work
         description: ''
-        percent: 60
-        icon: p<wa-icon name="square-binary" variant="thin"></wa-icon>
+        percent: 90
+        icon: square-binary
       - name: LEGO model building
         description: ''
-        percent: 100
-        icon: <wa-icon name="puzzle"></wa-icon>
+        percent: 90
+        icon: puzzl
       - name: Travel and Cultural Exploration
         description: ''
         percent: 80
-        icon: <wa-icon name="camera-retro"></wa-icon>
+        icon: camera-retro
 
 languages:
   - name: English
-    percent: 70
+    percent: 80
   - name: Mandarin Chinese (Traditional)
     percent: 90
   - name: Taiwanese
-    percent: 80
+    percent: 75
 
 # Awards.
 #   Add/remove as many awards below as you like.
