@@ -138,21 +138,21 @@ awards:
     url: https://neurips.cc/
     date: '2023-09-20'
     awarder: College of Social Sciences, NCCU
-    icon: uploads/nccu
+    icon: "custom/facebook"
     summary: |
       Awarded for outstanding achievement in doctoral dissertation research and writing.
   - title: Professor Chi Huang Research Scholarship
     url: https://politics.nccu.edu.tw/
     date: '2022-04-15'
     awarder: Department of Political Science, NCCU
-    icon: uploads/nccu
+    icon: "custom/facebook"
     summary: |
       Awarded to outstanding doctoral candidates in the field of empirical research for excellence in academic writing.
   - title: NSTC Doctoral Dissertation Fellowship in the Humanities and Social Sciences
     url: https://www.nccu.edu.tw/p/406-1000-8685,r17.php?Lang=zh-tw
     date: '2021-06-30'
     awarder: NSTC
-    icon: brands/datacamp
+    icon: "custom/facebook"
     summary: |
       Awarded to doctoral candidates with strong research potential to support one year of dissertation writing and enhance academic research quality (NT$480,000).
 ---
